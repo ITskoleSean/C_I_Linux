@@ -12,4 +12,4 @@
 * #### Task
     * *This is the tasks at hand*
 * #### Code
-    * *Which is my implementation of the task*
+    * *This is my implementation of the task*
