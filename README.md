@@ -7,6 +7,8 @@
         * *Tell about what I think about the Topic.*
     * #### Post-Lession
         * *Tell about what it actually was.*
+    * #### Notes
+        * *Notes from the Lecture*
 * #### Solution
     * *This is code from my professor.*
 * #### Task
