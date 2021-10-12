@@ -3,6 +3,6 @@
 
 ## Every Lession has one Readme which will tell you about:
 ## PRE Lession
-#### * Tell about what I think about the Topic.
+#### - Tell about what I think about the Topic.
 ## POST Lession
-#### * Tell about what it actually was.
+#### - Tell about what it actually was.
