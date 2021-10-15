@@ -1,4 +1,5 @@
 #include "../Headers/Bubblesort.h"
+static int swap(int *a, int*b);
 
 void sort(int *array, int length) {
     int swapped = TRUE;
@@ -7,13 +8,11 @@ void sort(int *array, int length) {
     while (swapped) {
         swapped = FALSE;
         for(int i = 0; i < limit; i++) {
-            if ( array[i] > array[i - 1] ) {
-                swapped = TRUE;
-                swap(&array[i], &array[i - 1]);
-            }
+            swap(&array[i], &array[i - 1]);
         }
     }
 }
+
 
 static int swap(int *a, int* b) {
     int temp = *b;
